@@ -1,0 +1,4 @@
+CFBundleName = "RotateBake";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "RotateBake version 1.0 Copyright 2010 Ryan Baumann";
+NSHumanReadableCopyright = "Copyright 2010 Ryan Baumann.";

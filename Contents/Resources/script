@@ -1,0 +1,7 @@
+PATH=$PATH:`pwd`
+DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH:`pwd`
+
+for f in "$@"
+do
+	./jhead -autorot "$f"
+done
