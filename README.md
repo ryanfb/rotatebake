@@ -3,6 +3,8 @@
 RotateBake is a Mac app for baking EXIF rotation into images. You know your
 iPhone images that show up rotated wrong in Safari? Yeah, this fixes that.
 
+[Download it now!](http://github.com/downloads/ryanfb/rotatebake/RotateBake.app.zip)
+
 ##SYNOPSIS
 
 Drop images onto RotateBake and they will be rotated appropriately and have the EXIF rotation value stripped.
