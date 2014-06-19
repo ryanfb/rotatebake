@@ -11,6 +11,10 @@ Drop images onto RotateBake and they will be rotated appropriately and have the 
 
 RotateBake has only been tested on OS X 10.6.
 
+All RotateBake does is run the following command against each input image:
+
+    jhead -autorot filename
+
 ##COPYRIGHT INFO
 
 RotateBake bundles Intel-compiled versions of:
